@@ -1,46 +1,44 @@
-<h1 align="center">
-Hi 👋, I'm Akash K S
-</h1>
+<h1 align="center">Hi 👋, I'm Akash K S</h1>
 
 <h3 align="center">
-Computer Science Engineering (AI & ML) Student | Full Stack Developer | AI Enthusiast | Python Developer
+Computer Science Engineering (AI & ML) Student • Python Developer • Full Stack Developer • AI Enthusiast
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Always+Learning+New+Technologies;Open+Source+Learner" />
+  <a href="https://github.com/AkashssA">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies!" />
+  </a>
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=AkashssA&label=Profile%20Views&color=0e75b6&style=flat" />
-
+<img src="https://komarev.com/ghpvc/?username=AkashssA&label=Profile+Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 B.E. Computer Science Engineering (Artificial Intelligence & Machine Learning)
+🎓 **Fourth Year B.E. Computer Science Engineering (AI & ML)**
 
-🏫 National Institute of Engineering (NIE), Mysuru
+🏫 **The National Institute of Engineering (NIE), Mysuru**
 
-📈 CGPA: **9.67 / 10**
+📈 **CGPA:** **9.67 / 10**
 
-💡 Passionate about solving real-world problems using AI and modern web technologies.
+💡 Passionate about building scalable AI-powered and Full Stack applications that solve real-world problems.
 
-🌱 Currently Learning
+🌱 **Currently Learning**
 
 - AWS Cloud
 - DevOps
-- Distributed Systems
 - System Design
+- Distributed Systems
 - Generative AI
 
-💬 Ask me about
+💬 **Ask Me About**
 
 - Python
 - Java
-- React
+- React.js
 - Node.js
 - MongoDB
 - Machine Learning
@@ -69,32 +67,24 @@ Computer Science Engineering (AI & ML) Student | Full Stack Developer | AI Enthu
 
 ---
 
-# 💻 Languages
+# 💻 Tech Stack
+
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,html,css,js,sql"/>
-
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql"/>
 </p>
 
----
-
-# 🚀 Frameworks & Technologies
+### Frameworks & Tools
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,docker,vscode"/>
-
 </p>
 
----
-
-# ☁️ Cloud & AI
+### Cloud & AI
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch"/>
-
 </p>
 
 ---
@@ -105,10 +95,10 @@ Computer Science Engineering (AI & ML) Student | Full Stack Developer | AI Enthu
 - Operating Systems
 - Database Management Systems
 - Computer Networks
-- Object Oriented Programming
-- Distributed Systems
+- Object-Oriented Programming
 - Artificial Intelligence
 - Machine Learning
+- Distributed Systems
 
 ---
 
@@ -116,103 +106,96 @@ Computer Science Engineering (AI & ML) Student | Full Stack Developer | AI Enthu
 
 ## 🤖 AI Smart Public Distribution System
 
-AI + IoT based Smart Ration Distribution System
+AI & IoT-based smart ration distribution system with:
 
-- QR Authentication
-- OTP Verification
-- Weight Monitoring
-- AI Prediction
-- MongoDB
-- React
+- QR Verification
+- OTP Authentication
+- Load Cell Weight Monitoring
+- AI Stock Prediction
+- React.js
 - Node.js
+- MongoDB
 
-🔗 Repository
+🔗 **Live Demo:** *Add your deployed link here*
 
-https://github.com/AkashssA/repo-name
+💻 **GitHub:** *Add your repository link here*
 
 ---
 
 ## 👴 ELDER – Elderly Companion
 
-AI powered elderly healthcare platform
+AI-powered healthcare platform featuring:
 
 - AI Chatbot
-- SOS
 - Medicine Reminder
-- Health Tracking
-- Entertainment
+- Emergency SOS
+- Health Monitoring
+- Entertainment Module
 
-🔗 Repository
+🔗 **Live Demo:** *Add your deployed link here*
 
-https://github.com/AkashssA/repo-name
-
----
-
-## ❤️ Organ Donation Management System
-
-Full Stack Web Application
-
-- React
-- Node.js
-- MySQL
-- JWT Authentication
-
-🔗 Repository
-
-https://github.com/AkashssA/repo-name
+💻 **GitHub:** *Add your repository link here*
 
 ---
 
 ## 🎥 YouTube AI Agent Summarizer
 
-Generative AI powered video summarizer
-
 - Streamlit
-- Gemini API
-- Python
+- Gemini AI
+- Automatic Video Summaries
 
-🔗 Repository
+🔗 **Live Demo:** *Add your deployed link here*
 
-https://github.com/AkashssA/repo-name
+💻 **GitHub:** *Add your repository link here*
 
 ---
 
 ## 📊 Algorithm Analyzer
 
-Visualization and Analysis of Algorithms
-
 - Merge Sort
 - Quick Sort
-- Complexity Analysis
+- Performance Analysis
+- Complexity Visualization
 
-🔗 Repository
+🔗 **Live Demo:** *Add your deployed link here*
 
-https://github.com/AkashssA/repo-name
+💻 **GitHub:** *Add your repository link here*
+
+---
+
+## ❤️ Organ Donation Management System
+
+- React.js
+- Node.js
+- JWT Authentication
+- MySQL
+
+🔗 **Live Demo:** *Add your deployed link here*
+
+💻 **GitHub:** *Add your repository link here*
 
 ---
 
 ## 🛒 Multi Vendor AI E-Commerce Platform
 
-AI powered shopping platform
-
-- React
+- Gemini AI
+- React.js
 - Node.js
 - MongoDB
-- Gemini AI
 
-🔗 Repository
+🔗 **Live Demo:** *Add your deployed link here*
 
-https://github.com/AkashssA/repo-name
+💻 **GitHub:** *Add your repository link here*
 
 ---
 
-# 📈 GitHub Statistics
+# 📈 GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AkashssA&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashssA&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashssA&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashssA&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -242,70 +225,47 @@ https://github.com/AkashssA/repo-name
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AkashssA&theme=tokyonight&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AkashssA&theme=tokyonight&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📅 Currently Working On
+# 🌱 Currently Exploring
 
-- AI Smart Public Distribution System
+- Artificial Intelligence
+- Machine Learning
 - AWS Cloud
 - DevOps
-- Full Stack Applications
-- Open Source Contributions
+- System Design
+- Distributed Systems
 
 ---
 
-# 🎯 Goals
+# 🎯 Current Goals
 
-✅ Master DSA
+✅ Secure a Software Development Engineer (SDE) Role
 
-✅ Become an AWS Certified Engineer
+✅ Build Production-Ready AI & Full Stack Applications
 
-✅ Build Production-Level AI Applications
+✅ Master AWS & DevOps
 
-✅ Solve 500+ Coding Problems
+✅ Strengthen System Design Skills
 
 ✅ Contribute to Open Source
 
-✅ Secure a Software Engineering Internship
+---
+
+# 💡 Quote
+
+> **"Learning never exhausts the mind. Every project is another step toward innovation."**
 
 ---
 
-# ⚡ Fun Facts
+<p align="center">
 
-💻 I love solving coding problems.
+### ⭐ Thanks for visiting my profile!
 
-🤖 I enjoy building AI-powered applications.
+If you like my work, consider giving a ⭐ to my repositories.
 
-📚 I believe learning is a lifelong journey.
-
-☕ Coffee + Coding = Productivity 🚀
-
----
-
-# 📫 Reach Me
-
-📧 **Email**
-
-akashkskrn@gmail.com
-
-💼 **LinkedIn**
-
-https://www.linkedin.com/in/akash-k-s-470a5a292
-
-🌐 **GitHub**
-
-https://github.com/AkashssA
-
----
-
-<h3 align="center">
-
-⭐ Thanks for visiting my profile! ⭐
-
-If you like my work, don't forget to ⭐ my repositories.
-
-</h3>
+</p>
