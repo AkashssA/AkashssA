@@ -1,271 +1,227 @@
-<h1 align="center">Hi 👋, I'm Akash K S</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Science Engineering (AI & ML) Student • Python Developer • Full Stack Developer • AI Enthusiast
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=220&section=header&text=Akash%20K%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20AI%20%26%20Full%20Stack%20products%20that%20actually%20ship&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="center">
-  <a href="https://github.com/AkashssA">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+Developer;Always+Learning+New+Technologies!" />
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=700&lines=AI+%7C+Machine+Learning+Enthusiast;Full+Stack+Developer;Python+%7C+Java+%7C+React+%7C+Node;Always+Learning+New+Technologies!" />
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=AkashssA&label=Profile+Views&color=0e75b6&style=flat"/>
-</p>
+<br/>
 
----
+<img src="https://img.shields.io/badge/CGPA-9.67%20%2F%2010-7aa2f7?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Year-Final%20Year-bb9af7?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://komarev.com/ghpvc/?username=AkashssA&label=Profile+Views&color=7aa2f7&style=for-the-badge"/>
 
-# 👨‍💻 About Me
+</div>
 
-🎓 **Fourth Year B.E. Computer Science Engineering (AI & ML)**
+<br/>
 
-🏫 **The National Institute of Engineering (NIE), Mysuru**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2&width=100%"/>
 
-📈 **CGPA:** **9.67 / 10**
+## 👨‍💻&nbsp; About Me
 
-💡 Passionate about building scalable AI-powered and Full Stack applications that solve real-world problems.
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashssA&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" width="340"/>
 
-🌱 **Currently Learning**
+🎓 &nbsp;Fourth Year, **B.E. Computer Science Engineering (AI & ML)**
+🏫 &nbsp;The National Institute of Engineering (NIE), Mysuru
+📈 &nbsp;CGPA: **9.67 / 10**
+💡 &nbsp;I build scalable AI-powered and full-stack applications that solve real problems — not just tutorials.
 
-- AWS Cloud
-- DevOps
-- System Design
-- Distributed Systems
-- Generative AI
+**🌱 Currently learning**
+`AWS Cloud` `DevOps` `System Design` `Distributed Systems` `Generative AI`
 
-💬 **Ask Me About**
+**💬 Ask me about**
+`Python` `Java` `React.js` `Node.js` `MongoDB` `Machine Learning` `DSA` `Git & GitHub`
 
-- Python
-- Java
-- React.js
-- Node.js
-- MongoDB
-- Machine Learning
-- DSA
-- Git & GitHub
+**🎯 Currently aiming for**
+An SDE role · production-grade AI/full-stack apps · deeper AWS & DevOps · stronger system design · open-source contributions
 
----
+<br clear="right"/>
 
-# 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2&width=100%"/>
+
+## 🌐&nbsp; Connect With Me
 
 <p align="left">
-
-<a href="mailto:akashkskrn@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/akash-k-s-470a5a292">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/AkashssA">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<a href="mailto:akashkskrn@gmail.com"><img src="https://img.shields.io/badge/Gmail-1a1b27?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://www.linkedin.com/in/akash-k-s-470a5a292"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+<a href="https://github.com/AkashssA"><img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=ffffff"/></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2&width=100%"/>
 
-# 💻 Tech Stack
+## 💻&nbsp; Tech Stack
 
-### Languages
+<table>
+<tr>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql"/>
-</p>
+**Languages**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,html,css,sql&theme=dark"/>
 
-### Frameworks & Tools
+</td>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,docker,vscode"/>
-</p>
+**Frameworks & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,docker&theme=dark"/>
 
-### Cloud & AI
+</td>
+<td valign="top" width="33%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch"/>
-</p>
+**Cloud & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,tensorflow,pytorch,vscode&theme=dark"/>
 
----
+</td>
+</tr>
+</table>
 
-# 📚 Core Subjects
+**📚 Core Subjects**
+<br/>
+<img src="https://img.shields.io/badge/-Data%20Structures%20%26%20Algorithms-1a1b27?style=flat-square&color=1a1b27&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-Operating%20Systems-1a1b27?style=flat-square&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-DBMS-1a1b27?style=flat-square&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-Computer%20Networks-1a1b27?style=flat-square&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-OOP-1a1b27?style=flat-square&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-Artificial%20Intelligence-1a1b27?style=flat-square&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-Machine%20Learning-1a1b27?style=flat-square&labelColor=7aa2f7"/> <img src="https://img.shields.io/badge/-Distributed%20Systems-1a1b27?style=flat-square&labelColor=7aa2f7"/>
 
-- Data Structures & Algorithms
-- Operating Systems
-- Database Management Systems
-- Computer Networks
-- Object-Oriented Programming
-- Artificial Intelligence
-- Machine Learning
-- Distributed Systems
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2&width=100%"/>
 
----
+## 🚀&nbsp; Featured Projects
 
-# 🚀 Featured Projects
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🤖 AI Smart Public Distribution System
+### 🤖 AI Smart Public Distribution System
+AI & IoT-based smart ration distribution system.
+`QR Verification` `OTP Auth` `Load Cell Monitoring` `AI Stock Prediction`
+`React.js` `Node.js` `MongoDB`
 
-AI & IoT-based smart ration distribution system with:
+🔗 [Live Demo](#) &nbsp;·&nbsp; 💻 [Source](#)
 
-- QR Verification
-- OTP Authentication
-- Load Cell Weight Monitoring
-- AI Stock Prediction
-- React.js
-- Node.js
-- MongoDB
+</td>
+<td width="50%" valign="top">
 
-🔗 **Live Demo:** *Add your deployed link here*
+### 👴 ELDER — Elderly Companion
+AI-powered healthcare companion platform.
+`AI Chatbot` `Medicine Reminder` `Emergency SOS` `Health Monitoring`
 
-💻 **GitHub:** *Add your repository link here*
+🔗 [Live Demo](#) &nbsp;·&nbsp; 💻 [Source](#)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 👴 ELDER – Elderly Companion
+### 🎥 YouTube AI Agent Summarizer
+Automatic video summarization agent.
+`Streamlit` `Gemini AI`
 
-AI-powered healthcare platform featuring:
+🔗 [Live Demo](#) &nbsp;·&nbsp; 💻 [Source](#)
 
-- AI Chatbot
-- Medicine Reminder
-- Emergency SOS
-- Health Monitoring
-- Entertainment Module
+</td>
+<td width="50%" valign="top">
 
-🔗 **Live Demo:** *Add your deployed link here*
+### 📊 Algorithm Analyzer
+Sorting algorithm performance visualizer.
+`Merge Sort` `Quick Sort` `Complexity Analysis`
 
-💻 **GitHub:** *Add your repository link here*
+🔗 [Live Demo](#) &nbsp;·&nbsp; 💻 [Source](#)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## 🎥 YouTube AI Agent Summarizer
+### ❤️ Organ Donation Management System
+Full-stack donor/recipient management platform.
+`React.js` `Node.js` `JWT Auth` `MySQL`
 
-- Streamlit
-- Gemini AI
-- Automatic Video Summaries
+🔗 [Live Demo](#) &nbsp;·&nbsp; 💻 [Source](#)
 
-🔗 **Live Demo:** *Add your deployed link here*
+</td>
+<td width="50%" valign="top">
 
-💻 **GitHub:** *Add your repository link here*
+### 🛒 Multi-Vendor AI E-Commerce Platform
+AI-assisted multi-vendor marketplace.
+`Gemini AI` `React.js` `Node.js` `MongoDB`
 
----
+🔗 [Live Demo](#) &nbsp;·&nbsp; 💻 [Source](#)
 
-## 📊 Algorithm Analyzer
+</td>
+</tr>
+</table>
 
-- Merge Sort
-- Quick Sort
-- Performance Analysis
-- Complexity Visualization
+> 💡 Replace the `#` links above with your live demo and repo URLs.
 
-🔗 **Live Demo:** *Add your deployed link here*
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2&width=100%"/>
 
-💻 **GitHub:** *Add your repository link here*
+## 📊&nbsp; GitHub Analytics
 
----
+<div align="center">
 
-## ❤️ Organ Donation Management System
+<img src="https://github-readme-stats.vercel.app/api?username=AkashssA&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashssA&theme=tokyonight&hide_border=true&background=00000000" height="165"/>
 
-- React.js
-- Node.js
-- JWT Authentication
-- MySQL
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashssA&theme=tokyo-night&hide_border=true&bg_color=00000000" width="100%"/>
 
-🔗 **Live Demo:** *Add your deployed link here*
+</div>
 
-💻 **GitHub:** *Add your repository link here*
+<details>
+<summary><b>🐍 Add an animated contribution snake (optional)</b></summary>
+<br/>
 
----
+Create <code>.github/workflows/snake.yml</code> in this same repo with:
 
-## 🛒 Multi Vendor AI E-Commerce Platform
+```yaml
+name: Generate Snake
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [ main ]
 
-- Gemini AI
-- React.js
-- Node.js
-- MongoDB
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: AkashssA
+          outputs: dist/github-snake-dark.svg?palette=github-dark
+      - uses: actions/upload-artifact@v4
+        with:
+          name: github-snake
+          path: dist/*.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
 
-🔗 **Live Demo:** *Add your deployed link here*
+Then add this to your README once the `output` branch exists:
 
-💻 **GitHub:** *Add your repository link here*
+```md
+![snake gif](https://raw.githubusercontent.com/AkashssA/AkashssA/output/github-snake-dark.svg)
+```
 
----
+</details>
 
-# 📈 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7aa2f7,100:1a1b27&height=2&width=100%"/>
 
-<p align="center">
+## 🏆&nbsp; Trophies
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AkashssA&show_icons=true&theme=tokyonight"/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=AkashssA&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashssA&layout=compact&theme=tokyonight"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b27,100:7aa2f7&height=2&width=100%"/>
 
-</p>
+<div align="center">
 
----
+### 💡 "Learning never exhausts the mind. Every project is another step toward innovation."
 
-# 🔥 GitHub Streak
+⭐ **If you like my work, consider starring my repositories!**
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:1a1b27&height=100&section=footer" width="100%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkashssA&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashssA&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AkashssA&theme=tokyonight&row=2&column=4"/>
-
-</p>
-
----
-
-# 🌱 Currently Exploring
-
-- Artificial Intelligence
-- Machine Learning
-- AWS Cloud
-- DevOps
-- System Design
-- Distributed Systems
-
----
-
-# 🎯 Current Goals
-
-✅ Secure a Software Development Engineer (SDE) Role
-
-✅ Build Production-Ready AI & Full Stack Applications
-
-✅ Master AWS & DevOps
-
-✅ Strengthen System Design Skills
-
-✅ Contribute to Open Source
-
----
-
-# 💡 Quote
-
-> **"Learning never exhausts the mind. Every project is another step toward innovation."**
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-</p>
+</div>
